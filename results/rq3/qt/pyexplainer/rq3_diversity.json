@@ -1,0 +1,67 @@
+{
+  "project": "qt",
+  "method": "pyexplainer",
+  "k": 5,
+  "n_runs": 5,
+  "sample_stats": {
+    "n_samples": 200,
+    "n_pairs": 99500,
+    "empty_explanations": 0
+  },
+  "inter_sample_metrics": {
+    "InterJ@K": {
+      "mean": 0.40570200207386137,
+      "std": 0.26592386418785935
+    },
+    "InterMRD@K": {
+      "mean": 2.013242881072027,
+      "std": 0.7581634336824454
+    }
+  },
+  "feature_distribution": {
+    "entropy": 2.4513901145351262,
+    "unique_features": 18,
+    "top_features": [
+      {
+        "feature": "orexp",
+        "frequency": 0.864
+      },
+      {
+        "feature": "oexp",
+        "frequency": 0.714
+      },
+      {
+        "feature": "age",
+        "frequency": 0.542
+      },
+      {
+        "feature": "rrexp",
+        "frequency": 0.496
+      },
+      {
+        "feature": "nuc",
+        "frequency": 0.465
+      },
+      {
+        "feature": "nd",
+        "frequency": 0.433
+      },
+      {
+        "feature": "asexp",
+        "frequency": 0.406
+      },
+      {
+        "feature": "rsexp",
+        "frequency": 0.247
+      },
+      {
+        "feature": "ns",
+        "frequency": 0.189
+      },
+      {
+        "feature": "la",
+        "frequency": 0.183
+      }
+    ]
+  }
+}

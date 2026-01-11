@@ -1,0 +1,67 @@
+{
+  "project": "openstack",
+  "method": "default",
+  "k": 5,
+  "n_runs": 5,
+  "sample_stats": {
+    "n_samples": 200,
+    "n_pairs": 99500,
+    "empty_explanations": 0
+  },
+  "inter_sample_metrics": {
+    "InterJ@K": {
+      "mean": 0.3712822525325038,
+      "std": 0.22630532700242498
+    },
+    "InterMRD@K": {
+      "mean": 2.2750945042673685,
+      "std": 0.6521224175213027
+    }
+  },
+  "feature_distribution": {
+    "entropy": 2.452515010446732,
+    "unique_features": 24,
+    "top_features": [
+      {
+        "feature": "nf",
+        "frequency": 0.777
+      },
+      {
+        "feature": "revd",
+        "frequency": 0.615
+      },
+      {
+        "feature": "ent",
+        "frequency": 0.605
+      },
+      {
+        "feature": "nd",
+        "frequency": 0.543
+      },
+      {
+        "feature": "ld",
+        "frequency": 0.52
+      },
+      {
+        "feature": "la",
+        "frequency": 0.466
+      },
+      {
+        "feature": "nrev",
+        "frequency": 0.456
+      },
+      {
+        "feature": "self",
+        "frequency": 0.307
+      },
+      {
+        "feature": "ndev",
+        "frequency": 0.206
+      },
+      {
+        "feature": "ns",
+        "frequency": 0.17
+      }
+    ]
+  }
+}

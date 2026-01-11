@@ -1,0 +1,67 @@
+{
+  "project": "qt",
+  "method": "default",
+  "k": 5,
+  "n_runs": 5,
+  "sample_stats": {
+    "n_samples": 200,
+    "n_pairs": 99500,
+    "empty_explanations": 0
+  },
+  "inter_sample_metrics": {
+    "InterJ@K": {
+      "mean": 0.4027525325037888,
+      "std": 0.20140028894016362
+    },
+    "InterMRD@K": {
+      "mean": 2.175989917843184,
+      "std": 0.5892798500270462
+    }
+  },
+  "feature_distribution": {
+    "entropy": 2.4425541054221562,
+    "unique_features": 26,
+    "top_features": [
+      {
+        "feature": "revd",
+        "frequency": 0.874
+      },
+      {
+        "feature": "nrev",
+        "frequency": 0.8
+      },
+      {
+        "feature": "ent",
+        "frequency": 0.648
+      },
+      {
+        "feature": "nf",
+        "frequency": 0.61
+      },
+      {
+        "feature": "ndev",
+        "frequency": 0.406
+      },
+      {
+        "feature": "nd",
+        "frequency": 0.397
+      },
+      {
+        "feature": "ld",
+        "frequency": 0.299
+      },
+      {
+        "feature": "tcmt",
+        "frequency": 0.202
+      },
+      {
+        "feature": "la",
+        "frequency": 0.2
+      },
+      {
+        "feature": "self",
+        "frequency": 0.127
+      }
+    ]
+  }
+}

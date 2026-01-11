@@ -1,0 +1,67 @@
+{
+  "project": "qt",
+  "method": "lime",
+  "k": 5,
+  "n_runs": 5,
+  "sample_stats": {
+    "n_samples": 200,
+    "n_pairs": 99500,
+    "empty_explanations": 0
+  },
+  "inter_sample_metrics": {
+    "InterJ@K": {
+      "mean": 0.12103374012921751,
+      "std": 0.14799959587973424
+    },
+    "InterMRD@K": {
+      "mean": 2.632163212889846,
+      "std": 0.5103673069290198
+    }
+  },
+  "rule_distribution": {
+    "entropy": 3.4274049469437373,
+    "unique_rules": 63,
+    "top_rules": [
+      {
+        "rule": "la <= 2.00",
+        "frequency": 0.32
+      },
+      {
+        "rule": "oexp > 2032.50",
+        "frequency": 0.25
+      },
+      {
+        "rule": "la > 32.50",
+        "frequency": 0.25
+      },
+      {
+        "rule": "age > 2317416.57",
+        "frequency": 0.25
+      },
+      {
+        "rule": "oexp <= 168.00",
+        "frequency": 0.25
+      },
+      {
+        "rule": "asexp > 423.00",
+        "frequency": 0.249
+      },
+      {
+        "rule": "orexp <= 167.00",
+        "frequency": 0.249
+      },
+      {
+        "rule": "583.00 < oexp <= 2032.50",
+        "frequency": 0.246
+      },
+      {
+        "rule": "168.00 < oexp <= 583.00",
+        "frequency": 0.227
+      },
+      {
+        "rule": "ld > 11.00",
+        "frequency": 0.226
+      }
+    ]
+  }
+}

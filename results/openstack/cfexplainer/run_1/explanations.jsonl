@@ -1,0 +1,200 @@
+{"commit_id": "5fc157e0f5245eb79be90cbc8ed545c396fd38af", "explanation": [["rtime", 320930.7837890708, "increases_risk"], ["rexp", 571.8614718614708, "increases_risk"], ["ld", 0.9949748743718628, "increases_risk"]]}
+{"commit_id": "15e61fa1126fa8caf548627c9e97cded4c8ad22e", "explanation": [["rtime", 30116.017316016896, "increases_risk"], ["rexp", 566.2337662337652, "increases_risk"]]}
+{"commit_id": "74987666f89b4d15ffcf17b43b3752135ba08a65", "explanation": [["ld", 1.4924623115577942, "increases_risk"]]}
+{"commit_id": "1e28685abe25cc3c1ce4d81794ec8c373111fc13", "explanation": [["ld", 3.9798994974874513, "increases_risk"]]}
+{"commit_id": "4b0b0361ed8d231844344d014412f7b647baae0b", "explanation": [["ld", 0.4974874371859314, "increases_risk"]]}
+{"commit_id": "5072a9563e206bc580028ee6d3762542f7a88e25", "explanation": [["ld", 81.09045226130682, "increases_risk"]]}
+{"commit_id": "15271a08de44da1813bfb2a2b68a2f28ef887c21", "explanation": [["ld", 0.4974874371859314, "increases_risk"]]}
+{"commit_id": "ded9447aca01d593b0efa91b5ec23ecf8aa97264", "explanation": [["ld", 1.4924623115577942, "increases_risk"]]}
+{"commit_id": "620ff9b6738797f20b992a027301c32cf0dee17c", "explanation": [["ld", 2.487437185929657, "increases_risk"]]}
+{"commit_id": "e4377fdb0ef2087a36d2b1fbee96543f735040de", "explanation": [["rtime", 5470.538841393037, "increases_risk"], ["rexp", 682.251082251081, "increases_risk"], ["ld", 43.28140703517603, "increases_risk"]]}
+{"commit_id": "62e2ad123685ab01accfb9988013225fe377dfbe", "explanation": []}
+{"commit_id": "c191d0d10c6cb5730a4fb6540198ca3be6595b02", "explanation": [["rtime", 61073.64528268966, "increases_risk"], ["rexp", 59.3073593073592, "increases_risk"], ["ld", 6.96482412060304, "increases_risk"]]}
+{"commit_id": "3dce38f32559659978dd2ae69e9ffcb39c608582", "explanation": [["rtime", 26590.719832930517, "increases_risk"], ["rexp", 399.1341991341984, "increases_risk"], ["ld", 183.07537688442275, "increases_risk"]]}
+{"commit_id": "8279240ee30d55d127e4d964a9861b721ac7cc74", "explanation": [["rtime", 6510.474450172852, "increases_risk"], ["rexp", 195.2380952380949, "increases_risk"], ["ld", 0.9949748743718628, "increases_risk"]]}
+{"commit_id": "524eb966045192dd535648929d70cac091d8e24e", "explanation": [["ld", 0.9949748743718628, "increases_risk"]]}
+{"commit_id": "c5aafe4992efea8c95cc09e05fdb89288eafb6bb", "explanation": [["ld", 2.487437185929657, "increases_risk"]]}
+{"commit_id": "04f62ad8d874d7e9541bd26b379d5232992f12dd", "explanation": [["rtime", 25513.472122516992, "increases_risk"], ["rexp", 412.98701298701224, "increases_risk"]]}
+{"commit_id": "cd3f4f7d24c92475ca698906c57f60375861b83f", "explanation": [["ld", 0.9949748743718628, "increases_risk"]]}
+{"commit_id": "b29443b7f53bef00f7b96da9d7967f05ac6a1c30", "explanation": [["ld", 5.472361809045245, "increases_risk"]]}
+{"commit_id": "3f462fbf9a2b9cfe6ac39d87fe5b327ba82e9dac", "explanation": [["rtime", 50488.14635950244, "increases_risk"], ["rexp", 405.1948051948045, "increases_risk"], ["ld", 13.92964824120608, "increases_risk"]]}
+{"commit_id": "6bbe906db0385bcd11e0532b8b180272feb76042", "explanation": [["rtime", 16903.078161369383, "increases_risk"], ["rexp", 722.5108225108212, "increases_risk"], ["ld", 0.9949748743718628, "increases_risk"]]}
+{"commit_id": "7422146ec666f5d3ad3452361489270516ee6084", "explanation": [["ld", 1.4924623115577942, "increases_risk"]]}
+{"commit_id": "4243e8e2b41f1438023b1184b1281474b27b5467", "explanation": [["ld", 4.477386934673382, "increases_risk"]]}
+{"commit_id": "488fcb4ad345bfb4fd614a140b317b606e008872", "explanation": [["rtime", 43180.96108246802, "increases_risk"], ["rexp", 901.7316017316001, "increases_risk"], ["ld", 7.959798994974903, "increases_risk"]]}
+{"commit_id": "97552f05d5d26e596ddf0cda8169f3a5d131a55a", "explanation": [["ld", 7.959798994974903, "increases_risk"]]}
+{"commit_id": "d91a06b4fea7e45fd2e9abe35803cd9deb5d8e92", "explanation": [["ld", 0.9949748743718628, "increases_risk"]]}
+{"commit_id": "f4ce37b9c23cb09b5e4e07c0af5bae7a65f6cc04", "explanation": [["rtime", 62311.07050403446, "increases_risk"], ["rexp", 249.78354978354935, "increases_risk"], ["ld", 17.90954773869353, "increases_risk"]]}
+{"commit_id": "fe22186eb989b0302e1cb26a5b92cd77ce47bb9b", "explanation": [["ld", 12.934673366834216, "increases_risk"]]}
+{"commit_id": "2ce78382004a567defe98d8ccd196277a7cb66ed", "explanation": [["rtime", 6383.223476690724, "increases_risk"], ["rexp", 64.93506493506482, "increases_risk"]]}
+{"commit_id": "7beec04415b96626534ee17cff7a130b1881b6ea", "explanation": [["rtime", 905543.1965019779, "decreases_risk"], ["rexp", 213.41991341991303, "increases_risk"]]}
+{"commit_id": "6383f7f9f63e348a12adeff66a266ef796d98ded", "explanation": [["ld", 3.48241206030152, "increases_risk"]]}
+{"commit_id": "c49c725e43cfbc9d90b5e9ebbf93a32e71c7e6a9", "explanation": [["ld", 0.4974874371859314, "increases_risk"]]}
+{"commit_id": "0109231fcdb3c9e850afef82ba27090a4a0178af", "explanation": [["rtime", 710133.1767060311, "decreases_risk"], ["rexp", 269.2640692640688, "increases_risk"], ["ld", 4.477386934673382, "increases_risk"]]}
+{"commit_id": "175dfc11007b5824d4fbdc2bf9eca696eff1f59d", "explanation": [["rtime", 5987.687354521442, "increases_risk"], ["rexp", 1021.2121212121193, "increases_risk"]]}
+{"commit_id": "9dd1e2ae8456e3624d332ce7c46c025fd0bada6c", "explanation": [["ld", 17.412060301507598, "increases_risk"]]}
+{"commit_id": "76b5871adbb1bfc2e3d2a1151a00fa654c45953d", "explanation": [["ld", 0.9949748743718628, "increases_risk"]]}
+{"commit_id": "497d222ecd790c79e22a6aada38862b7e58f55c4", "explanation": [["rtime", 107436.57682351, "increases_risk"], ["rexp", 867.9653679653665, "increases_risk"], ["ld", 1.9899497487437257, "increases_risk"]]}
+{"commit_id": "f373a0f6f83181c9b51d7d7faa2e055d9ad92868", "explanation": [["rtime", 78187.02168852814, "increases_risk"], ["rexp", 33.33333333333327, "increases_risk"], ["ld", 0.4974874371859314, "increases_risk"]]}
+{"commit_id": "f9fa7a68a368cefd79ccc6d5d2b91cbdb4d17be7", "explanation": [["rtime", 9870.443124714344, "increases_risk"], ["rexp", 348.4848484848479, "increases_risk"], ["ld", 40.29648241206044, "increases_risk"]]}
+{"commit_id": "ca810742e0062f6964fed55a9e964431cfd14059", "explanation": [["ld", 5.472361809045245, "increases_risk"]]}
+{"commit_id": "0af41b8c50631252f0dfe0b11268beb3d5e49508", "explanation": [["ld", 0.4974874371859314, "increases_risk"]]}
+{"commit_id": "c97f2547760523b5f32a08aa24ed20c742bc6ba3", "explanation": []}
+{"commit_id": "b7ea2f70581f6acd927ea7b65adaffeeb4b8d2ba", "explanation": [["ld", 3.48241206030152, "increases_risk"]]}
+{"commit_id": "953c9e8a1ce52b181d4489bc50c3e0f7c9b17603", "explanation": [["rtime", 9447.13176270952, "increases_risk"], ["rexp", 200.8658008658005, "increases_risk"], ["ld", 16.417085427135735, "increases_risk"]]}
+{"commit_id": "41e2e91ccfb1409f1ea47d92a9d15f47ab37e65d", "explanation": []}
+{"commit_id": "0fc3afdff1a2b87589206ffb22b041d58fe0f99b", "explanation": [["rtime", 7627.888359546545, "increases_risk"], ["rexp", 251.08225108225062, "increases_risk"]]}
+{"commit_id": "e97fa4bd4f7584c2d0b8d976c770dbe5705ce962", "explanation": [["rtime", 12245.678609497534, "increases_risk"], ["rexp", 138.52813852813827, "increases_risk"], ["ld", 0.9949748743718628, "increases_risk"]]}
+{"commit_id": "b15535a20b7f717aa23f5bc6d695e574bb86c407", "explanation": [["ld", 0.4974874371859314, "increases_risk"]]}
+{"commit_id": "ef8017ff798c2a1bc548af6f0356b1aab3cfb0e2", "explanation": [["rtime", 139317.8881420068, "increases_risk"], ["rexp", 717.7489177489165, "increases_risk"], ["ld", 2.487437185929657, "increases_risk"]]}
+{"commit_id": "ffdfd3368db157f2c178dd319a28b00c505b2da1", "explanation": [["ld", 7.462311557788971, "increases_risk"]]}
+{"commit_id": "85f9d927f5becfca94e90941a3f01f96c6dbf439", "explanation": [["rtime", 25049.716113032347, "increases_risk"], ["rexp", 63.20346320346309, "increases_risk"], ["ld", 0.9949748743718628, "increases_risk"]]}
+{"commit_id": "3a829e3543b8a346fce95f71cd51f68e7c4aae41", "explanation": [["rtime", 10388.56620766154, "increases_risk"], ["rexp", 322.5108225108219, "increases_risk"], ["ld", 2.487437185929657, "increases_risk"]]}
+{"commit_id": "e672a5c28844bfbd9be9658cddf5b45251c6bc1d", "explanation": [["rtime", 123642.76795231397, "increases_risk"], ["rexp", 1341.5584415584392, "increases_risk"], ["ld", 1.9899497487437257, "increases_risk"]]}
+{"commit_id": "78c2175898a468ae734e27dfbc8f5b70f90fd477", "explanation": [["ld", 118.89949748743761, "increases_risk"]]}
+{"commit_id": "d9deffcba4ff6ab3b5a6459c9d626dc4f5334336", "explanation": [["ld", 0.4974874371859314, "increases_risk"]]}
+{"commit_id": "6835f46738d286591990819356b02670d7524257", "explanation": [["rtime", 5618.255781069773, "increases_risk"], ["rexp", 25.541125541125496, "increases_risk"], ["ld", 0.4974874371859314, "increases_risk"]]}
+{"commit_id": "23efe8d14973a7c94de167562340938ba00d043b", "explanation": [["ld", 8.457286432160833, "increases_risk"]]}
+{"commit_id": "5a21711be4444690e9f5ab442be08d15e725ca8e", "explanation": [["ld", 1.4924623115577942, "increases_risk"]]}
+{"commit_id": "15a02b247436ba71c4f64a8ac8d79b32cc8883f1", "explanation": [["ld", 0.4974874371859314, "increases_risk"]]}
+{"commit_id": "9dc59398a2278034be1c391f460406365a808bb7", "explanation": []}
+{"commit_id": "34749387076f6b3462a4a249797fa88e847bbd37", "explanation": [["ld", 0.4974874371859314, "increases_risk"]]}
+{"commit_id": "a860a07068d4d643c42973625c454c6b09e883cb", "explanation": []}
+{"commit_id": "58fe2f256fccc14f5078e9fde9b9f7b2219a06e5", "explanation": [["rtime", 1415.5626617937978, "increases_risk"], ["rexp", 165.8008658008655, "increases_risk"]]}
+{"commit_id": "47dcac493d1ce1f76cdc312aa16e0680118608a1", "explanation": [["rtime", 17501.742478626657, "increases_risk"], ["rexp", 751.5151515151501, "increases_risk"], ["ld", 4.477386934673382, "increases_risk"]]}
+{"commit_id": "785d60c9492a8d4583eb27b214abefda6c1fbcfc", "explanation": [["ld", 15.919597989949805, "increases_risk"]]}
+{"commit_id": "6515e01f13920dba94d25eef5e4c33900c1736b4", "explanation": [["rtime", 88262.12447518857, "increases_risk"], ["rexp", 716.0173160173147, "increases_risk"]]}
+{"commit_id": "2fcbe7e3ab4925ed627bc0e32676e2b6ff98ff3e", "explanation": [["rtime", 347.2949161391324, "increases_risk"], ["rexp", 59.74025974025963, "increases_risk"], ["ld", 5.472361809045245, "increases_risk"]]}
+{"commit_id": "85cbff043fd233477bb36363c79e2447ba1e35c1", "explanation": [["rtime", 3429.3023559354738, "increases_risk"], ["rexp", 122.5108225108223, "increases_risk"], ["ld", 0.9949748743718628, "increases_risk"]]}
+{"commit_id": "ce79e4ce66eac284ce29941744fb09e316b899db", "explanation": [["rtime", 1106.06713219777, "increases_risk"], ["rexp", 490.0432900432892, "increases_risk"], ["ld", 10.447236180904559, "increases_risk"]]}
+{"commit_id": "f932874ed1f2501406fd7509988448ffc7091a55", "explanation": [["ld", 20.894472361809118, "increases_risk"]]}
+{"commit_id": "f5e19272844f2f0d2c72bf55a2bdf533f40d1ea5", "explanation": [["ld", 2.9849246231155884, "increases_risk"]]}
+{"commit_id": "47c312bb659d0ad49a678c8213093827e6067f31", "explanation": [["ld", 0.4974874371859314, "increases_risk"]]}
+{"commit_id": "a3c944bb1860faeb4eb0e90534ace07c1e869ea1", "explanation": [["rtime", 13460.827949269973, "increases_risk"], ["rexp", 411.25541125541054, "increases_risk"], ["ld", 23.879396984924707, "increases_risk"]]}
+{"commit_id": "b2e64e379835f57128e66f507438130eda716814", "explanation": [["rtime", 196336.62685722712, "increases_risk"], ["rexp", 1066.6666666666647, "increases_risk"], ["ld", 5.969849246231177, "increases_risk"]]}
+{"commit_id": "4b768a4a847a0f5c857f4fe3f3bca720da9b3949", "explanation": [["rtime", 41377.101960015956, "increases_risk"], ["rexp", 751.0822510822497, "increases_risk"], ["ld", 2.487437185929657, "increases_risk"]]}
+{"commit_id": "7b00b98bf9cd081769e690a1e9cbf01c555c475c", "explanation": [["rtime", 1897266.697121947, "decreases_risk"], ["rexp", 90.90909090909075, "increases_risk"], ["ld", 17.90954773869353, "increases_risk"]]}
+{"commit_id": "9ce2e4f80f249d58622b7235aec55e823f9cd6c8", "explanation": [["ld", 0.4974874371859314, "increases_risk"]]}
+{"commit_id": "8ee1a30abc76232db087dee29e9abccd3a14f5de", "explanation": [["ld", 0.9949748743718628, "increases_risk"]]}
+{"commit_id": "a246c5576d726c7bc385b49bc7b626eb6edcd137", "explanation": [["rtime", 26118.958428505804, "increases_risk"], ["rexp", 195.2380952380949, "increases_risk"], ["ld", 8.954773869346765, "increases_risk"]]}
+{"commit_id": "b959bc1f109f96429d861256aa8adaa61830cd2c", "explanation": [["rtime", 97199.69544693027, "increases_risk"], ["rexp", 609.090909090908, "increases_risk"], ["ld", 10.94472361809049, "increases_risk"]]}
+{"commit_id": "5a8ae0f1d0c115b488992f98ceb077e1c23ea330", "explanation": [["ld", 62.18592964824143, "increases_risk"]]}
+{"commit_id": "cb06335d2d3359e5583cdde10ed73edfeadf6b97", "explanation": [["ld", 0.9949748743718628, "increases_risk"]]}
+{"commit_id": "2538660d79dc78b17a29f696e0248e8be8cc2c67", "explanation": [["rtime", 106853.43601122347, "increases_risk"], ["rexp", 105.62770562770544, "increases_risk"], ["ld", 5.969849246231177, "increases_risk"]]}
+{"commit_id": "99f6c32bf8a5204da0e07137486c61cdba5318a3", "explanation": [["rtime", 2205.1730514041765, "increases_risk"], ["rexp", 409.0909090909083, "increases_risk"], ["ld", 10.94472361809049, "increases_risk"]]}
+{"commit_id": "ec35e6d5735babfe16c1f3e46dd6275b53147426", "explanation": []}
+{"commit_id": "eaa68b4820299cef90447a2af09383ac4399bf5f", "explanation": [["rtime", 9062.246296417024, "increases_risk"], ["rexp", 903.0303030303014, "increases_risk"], ["ld", 0.9949748743718628, "increases_risk"]]}
+{"commit_id": "5582f166c25f2bc7562c38e13b8e72f7b017c79d", "explanation": [["rtime", 4418.212273488593, "increases_risk"], ["rexp", 65.80086580086568, "increases_risk"], ["ld", 2.487437185929657, "increases_risk"]]}
+{"commit_id": "6aff48c6f1effc445633764e9d78b6f7c17f8b7e", "explanation": [["ld", 1.9899497487437257, "increases_risk"]]}
+{"commit_id": "b97736211693eba0966e09b86421b76e0a71f846", "explanation": [["rtime", 1121.5210250385974, "increases_risk"], ["rexp", 148.0519480519478, "increases_risk"], ["ld", 1.4924623115577942, "increases_risk"]]}
+{"commit_id": "9075069098e32b47bd5011e2653a23b61c18d4a3", "explanation": [["rtime", 23652.461441405834, "increases_risk"], ["rexp", 547.6190476190467, "increases_risk"], ["ld", 0.9949748743718628, "increases_risk"]]}
+{"commit_id": "69bb265f3fa550155903d107389a3bb009b3c943", "explanation": [["rtime", 89056.88616241256, "increases_risk"], ["rexp", 1091.3419913419893, "increases_risk"], ["ld", 4.477386934673382, "increases_risk"]]}
+{"commit_id": "96e83c073a220c939e56fcdf71ba035a2db62900", "explanation": [["rtime", 184335.9133328957, "increases_risk"], ["rexp", 865.3679653679638, "increases_risk"], ["ld", 1.4924623115577942, "increases_risk"]]}
+{"commit_id": "7e844389c5adbb3d23505b3b52ced9a175b22d1a", "explanation": [["rtime", 124928.29515542909, "increases_risk"], ["rexp", 217.3160173160169, "increases_risk"], ["ld", 0.4974874371859314, "increases_risk"]]}
+{"commit_id": "323eb60884cf8736448d997068d32f252d22e7f3", "explanation": [["ld", 6.467336683417108, "increases_risk"]]}
+{"commit_id": "77c34f0223a21d122062b2057e9ed1584dbbf8bf", "explanation": [["ld", 0.4974874371859314, "increases_risk"]]}
+{"commit_id": "ce710a54a587178f65abc62e2a29ce58ba6da01e", "explanation": [["ld", 10.447236180904559, "increases_risk"]]}
+{"commit_id": "2aff4bf63ca57e0ec1290983f3109e484b95935f", "explanation": [["rtime", 26869.237964714976, "increases_risk"], ["rexp", 883.9826839826824, "increases_risk"], ["ld", 0.9949748743718628, "increases_risk"]]}
+{"commit_id": "473768cd7673cb8332b30ac4d3051461cd4ab447", "explanation": [["rtime", 213.2915660553822, "increases_risk"], ["rexp", 47.1861471861471, "increases_risk"], ["ld", 19.899497487437255, "increases_risk"]]}
+{"commit_id": "673057320929d33095c998d477c2537567ccf74b", "explanation": [["rtime", 669164.5587243484, "increases_risk"], ["rexp", 538.961038961038, "increases_risk"]]}
+{"commit_id": "e0147e60d800fd67bc05bc4299c315f1761bd60b", "explanation": [["rtime", 30646.18329743915, "increases_risk"], ["rexp", 212.9870129870126, "increases_risk"], ["ld", 4.477386934673382, "increases_risk"]]}
+{"commit_id": "1ccc0e2f132d80cdfc480a601d9c2b3c5184bff7", "explanation": [["rtime", 17482.181470120926, "increases_risk"], ["rexp", 58.87445887445877, "increases_risk"], ["ld", 33.3316582914574, "increases_risk"]]}
+{"commit_id": "a320b5df9f916adf8422ed312306c77570d392c2", "explanation": [["ld", 16.914572864321666, "increases_risk"]]}
+{"commit_id": "7b9888df2d2ab4cb1c706ffb16c3c650cb8ad61a", "explanation": []}
+{"commit_id": "0be9e06c09c1d08802a8963e34090b5fcedb19be", "explanation": [["ld", 2.9849246231155884, "increases_risk"]]}
+{"commit_id": "8e74cf060abd812071a8d6841d9029a69f6a40ad", "explanation": [["rtime", 1960732.9809218983, "decreases_risk"], ["rexp", 54.97835497835488, "increases_risk"], ["ld", 1.4924623115577942, "increases_risk"]]}
+{"commit_id": "e02846cff4748f7df4d73fb0833fa3dbad1ccf9b", "explanation": [["rtime", 31593.604385563744, "increases_risk"], ["rexp", 125.10822510822489, "increases_risk"]]}
+{"commit_id": "7bbf2f7f9f7c7c49287519207e56932e28061514", "explanation": []}
+{"commit_id": "d6bf0d06c3bedcdeb211b563cf0923764b411966", "explanation": []}
+{"commit_id": "a36b38d78ef887e23451c1dd22fdde8615c40b08", "explanation": [["ld", 4.974874371859314, "increases_risk"]]}
+{"commit_id": "b5db5a346f9916ecdd630284f7596ea762bf1a5e", "explanation": [["rtime", 4466.105418869176, "increases_risk"], ["rexp", 111.68831168831149, "increases_risk"], ["ld", 11.939698492462353, "increases_risk"]]}
+{"commit_id": "992d901e364e85f1ae98bb97410f6eb641b3f51b", "explanation": [["rtime", 74555.14803454398, "increases_risk"], ["rexp", 844.5887445887431, "increases_risk"], ["ld", 17.412060301507598, "increases_risk"]]}
+{"commit_id": "afcd4a570479e8be9ce09c5d94d3e5e842899478", "explanation": [["ld", 4.974874371859314, "increases_risk"]]}
+{"commit_id": "469a1ca64b2c64fe270859ce927f0c0eba6ee8bd", "explanation": [["ld", 7.959798994974903, "increases_risk"]]}
+{"commit_id": "85b8d970863ea78cc8fe90fe30e1e993e64ebac3", "explanation": [["ld", 34.824120603015196, "increases_risk"]]}
+{"commit_id": "8eb74693691a2468d5a0da69abc12333d9a05400", "explanation": [["ld", 3.48241206030152, "increases_risk"]]}
+{"commit_id": "872d1982716acf426d21dcac838102e9479408f7", "explanation": [["rtime", 5301.311753572986, "increases_risk"], ["rexp", 500.86580086579994, "increases_risk"], ["ld", 7.462311557788971, "increases_risk"]]}
+{"commit_id": "6f5aa18747384f46f8d89ac0d6c82a710849ce59", "explanation": [["ld", 8.457286432160833, "increases_risk"]]}
+{"commit_id": "dc3e446aeccdd784c480b094b9285a5618e1b607", "explanation": [["rtime", 954853.2271748219, "decreases_risk"], ["rexp", 244.1558441558437, "increases_risk"]]}
+{"commit_id": "038a56c13dafb1993ea2c6cba5a1a06b573cfa03", "explanation": [["rtime", 76571.04570471297, "increases_risk"], ["rexp", 634.199134199133, "increases_risk"], ["ld", 1.9899497487437257, "increases_risk"]]}
+{"commit_id": "54da43b29ca444e316714e2bc402425bd5832d96", "explanation": []}
+{"commit_id": "0ff6b52ff2838943870ac34c0cd7921023df4474", "explanation": [["rtime", 5064.908960386277, "increases_risk"], ["rexp", 677.4891774891763, "increases_risk"]]}
+{"commit_id": "8db54f3bd590e71c6c6e383c928aa82fc28b3379", "explanation": [["rtime", 46444.44734494921, "increases_risk"], ["rexp", 482.25108225108136, "increases_risk"], ["ld", 7.959798994974903, "increases_risk"]]}
+{"commit_id": "b2447503b0ba98e644439d31435d47435c46cd69", "explanation": [["rtime", 33871.93978550715, "increases_risk"], ["rexp", 606.4935064935054, "increases_risk"], ["ld", 5.472361809045245, "increases_risk"]]}
+{"commit_id": "48b8dc6c9658ffa79972b39dc54191b11ca3dc57", "explanation": [["ld", 7.462311557788971, "increases_risk"]]}
+{"commit_id": "3680fd61c9a1cceaa011b4d0d37d235abf490c50", "explanation": []}
+{"commit_id": "01f7b0aa8de984baa27be50171526696aac48c0c", "explanation": [["ld", 0.4974874371859314, "increases_risk"]]}
+{"commit_id": "0f3b0410e3e8aa99971087ca5d8141e04cf6d39d", "explanation": [["rtime", 11932.145576366516, "increases_risk"], ["rexp", 175.75757575757544, "increases_risk"], ["ld", 1.4924623115577942, "increases_risk"]]}
+{"commit_id": "731794a7479e469d33fa8a9c0d08087f905e6b22", "explanation": [["ld", 13.432160804020148, "increases_risk"]]}
+{"commit_id": "4e733aac4697703b8c787cd6347421ed2f57d1b2", "explanation": [["rtime", 1268.681067676025, "increases_risk"], ["rexp", 443.72294372294294, "increases_risk"], ["ld", 5.472361809045245, "increases_risk"]]}
+{"commit_id": "26d8486a168c1a9b88bd0025cf0106e0b0ce3be4", "explanation": [["ld", 24.87437185929657, "increases_risk"]]}
+{"commit_id": "c1763deb23dc6dcf7ca4f32aafde47501a87083f", "explanation": [["ld", 1.4924623115577942, "increases_risk"]]}
+{"commit_id": "bb6374dfeb81f020d82161c28a6b31be636fbc01", "explanation": [["ld", 0.4974874371859314, "increases_risk"]]}
+{"commit_id": "6b78dfc0b865aa76d361fc219fd601948aee6660", "explanation": [["ld", 23.879396984924707, "increases_risk"]]}
+{"commit_id": "db572f6b4b8f1f2084139b7168356c61e54b4317", "explanation": [["rtime", 504.8271661336918, "increases_risk"], ["rexp", 427.7056277056269, "increases_risk"], ["ld", 20.396984924623187, "increases_risk"]]}
+{"commit_id": "c8e474d04dce462650c2a9f57cbcb106ce3ef0c9", "explanation": []}
+{"commit_id": "4605dff64fb2fac764e58baf397f2e6811216ec4", "explanation": [["rtime", 2122975.4660749338, "decreases_risk"], ["rexp", 40.259740259740184, "increases_risk"], ["ld", 29.351758793969953, "increases_risk"]]}
+{"commit_id": "cb448db52cb90c079bdb2ad415776e9e28fa790f", "explanation": [["rtime", 161530.56190040888, "increases_risk"], ["rexp", 807.7922077922063, "increases_risk"], ["ld", 7.959798994974903, "increases_risk"]]}
+{"commit_id": "e2efa57ab2fb03b92f80abbf612a257c28475140", "explanation": [["rtime", 913719.558833114, "increases_risk"], ["rexp", 1144.5887445887424, "increases_risk"], ["ld", 1.4924623115577942, "increases_risk"]]}
+{"commit_id": "3cee2c747c03a1cb45c75cb46f756e18445c5cae", "explanation": [["rexp", 506.926406926406, "increases_risk"], ["rtime", 323.4179555787551, "increases_risk"], ["ld", 0.9949748743718628, "increases_risk"]]}
+{"commit_id": "1b7d7f1878058a40ae1a331b1be2743c3c9a36e1", "explanation": [["rtime", 96384.6070177715, "increases_risk"], ["rexp", 652.8138528138517, "increases_risk"], ["ld", 1.4924623115577942, "increases_risk"]]}
+{"commit_id": "274d14a3305fffcaad85c310179c7d6082c732d5", "explanation": []}
+{"commit_id": "97a47ae62a1f0c778fab824d3bf48636dd5c832f", "explanation": [["rtime", 7891.5791076594, "increases_risk"], ["rexp", 893.0735930735915, "increases_risk"], ["ld", 2.9849246231155884, "increases_risk"]]}
+{"commit_id": "4dc37abcd530b27ea79fe5e440b4370aa7bc9edd", "explanation": [["ld", 10.94472361809049, "increases_risk"]]}
+{"commit_id": "6323c80323d01e042558bd78e74c5d6da66a1e17", "explanation": [["rtime", 2494.202614805595, "increases_risk"], ["rexp", 718.6147186147173, "increases_risk"], ["ld", 1.9899497487437257, "increases_risk"]]}
+{"commit_id": "2104840483f65c30accf4fd5df27c79052be85cd", "explanation": [["rtime", 51519.72851269262, "increases_risk"], ["rexp", 970.5627705627688, "increases_risk"], ["ld", 2.487437185929657, "increases_risk"]]}
+{"commit_id": "fb4c7679846c0e7a1264816c8ce461c70725cf3d", "explanation": [["rtime", 5313.424264177959, "increases_risk"], ["rexp", 720.7792207792195, "increases_risk"], ["ld", 6.96482412060304, "increases_risk"]]}
+{"commit_id": "c2634fa580b9b5e1c55bb6dc7eb02f0de989d747", "explanation": [["rtime", 76306.7284474309, "increases_risk"], ["ld", 527.8341708542732, "increases_risk"], ["rexp", 263.2034632034627, "increases_risk"]]}
+{"commit_id": "309a264db6c952081f2e85db21efc719596240a6", "explanation": [["ld", 16.417085427135735, "increases_risk"]]}
+{"commit_id": "3faea81c6029033c85cefd6e98d7a3e719e858f5", "explanation": [["rtime", 653450.0380691244, "increases_risk"], ["rexp", 410.8225108225101, "increases_risk"], ["ld", 12.437185929648285, "increases_risk"]]}
+{"commit_id": "cbb09485442d472f883829ba96f4c2d8b6d830fd", "explanation": [["ld", 1.4924623115577942, "increases_risk"]]}
+{"commit_id": "4779f609f3900307a028d72ebff85923d286b82e", "explanation": [["ld", 12.437185929648285, "increases_risk"]]}
+{"commit_id": "0b490e1ade9e8e65e8df6f86bbe47bd3dbe1d44c", "explanation": [["ld", 2.487437185929657, "increases_risk"]]}
+{"commit_id": "c2f9d1e560484c4a45e7264d9abb0212ced828cf", "explanation": [["ld", 9.949748743718628, "increases_risk"]]}
+{"commit_id": "26216f23741abb92cf520d9d144a1fb303567ed2", "explanation": [["ld", 0.9949748743718628, "increases_risk"]]}
+{"commit_id": "5bcbb65f3c0383a22ebb749a9251f689755e464c", "explanation": [["rtime", 6061.5458243598105, "increases_risk"], ["rexp", 229.00432900432858, "increases_risk"], ["ld", 0.9949748743718628, "increases_risk"]]}
+{"commit_id": "b2a253420ac700081a91a304784f680159953acb", "explanation": [["rtime", 33326.807196153466, "increases_risk"], ["rexp", 162.77056277056246, "increases_risk"]]}
+{"commit_id": "d2b329920a9b80384669c2f3c052fb5dc67c9778", "explanation": [["rtime", 70347.02516913474, "increases_risk"], ["rexp", 1892.6406926406892, "increases_risk"], ["ld", 56.21608040201025, "increases_risk"]]}
+{"commit_id": "ddeab2da30bb2f74109854d982c6681e78e7a4ce", "explanation": [["ld", 3.48241206030152, "increases_risk"]]}
+{"commit_id": "6321c5047c082bba8edf10a660fdb6a56430cc44", "explanation": [["ld", 2.487437185929657, "increases_risk"]]}
+{"commit_id": "e0e95c36f1d2c08c5ab419abdd8867c05d101475", "explanation": []}
+{"commit_id": "dc110b71c115dc9d1ac708ae62aad7d1a7218dcf", "explanation": [["rtime", 573600.6787182586, "decreases_risk"], ["rexp", 175.75757575757544, "increases_risk"], ["ld", 10.447236180904559, "increases_risk"]]}
+{"commit_id": "fa52cb09b2270876c9d9a03106f961be6c9db834", "explanation": [["rtime", 289571.8418934459, "increases_risk"], ["rexp", 907.3593073593057, "increases_risk"], ["ld", 0.4974874371859314, "increases_risk"]]}
+{"commit_id": "d44299be90bbfcac5f8de1e1264b81fbb0bfa5e2", "explanation": []}
+{"commit_id": "472e1535a615e9933d0b3df3853300348019e560", "explanation": [["rtime", 4422.458613413326, "increases_risk"], ["rexp", 370.5627705627699, "increases_risk"], ["ld", 1.4924623115577942, "increases_risk"]]}
+{"commit_id": "24c2da40549e882be716e1897fd81aef8f172e53", "explanation": [["ld", 11.939698492462353, "increases_risk"]]}
+{"commit_id": "c9d3b7c3ae71bbbe6f3077dcee13be41a14a6733", "explanation": [["ld", 2.9849246231155884, "increases_risk"]]}
+{"commit_id": "6c52cffab5c35c9d668e0ef5f612004cb7940091", "explanation": [["rtime", 7573.451673954081, "increases_risk"], ["rexp", 21.645021645021608, "increases_risk"], ["ld", 12.934673366834216, "increases_risk"]]}
+{"commit_id": "5bb507fc0375e0e4dc7b8448b6751dcc52fc75eb", "explanation": [["ld", 2.487437185929657, "increases_risk"]]}
+{"commit_id": "1c4a3e14a0cef6938c477908d5c3bfe5ddf0e07b", "explanation": []}
+{"commit_id": "c6ba1bb5035cb1ea4cb2b86ee56797c4dac63983", "explanation": [["ld", 1.4924623115577942, "increases_risk"]]}
+{"commit_id": "1f43ee050b94d368182d1d6e0340416ea1436e76", "explanation": [["rtime", 69187.14786051372, "increases_risk"], ["rexp", 158.44155844155816, "increases_risk"], ["ld", 1.9899497487437257, "increases_risk"]]}
+{"commit_id": "5c43b44f24d53873cd409208cf3879f14de7e2ab", "explanation": [["ld", 0.9949748743718628, "increases_risk"]]}
+{"commit_id": "23340b49b1adee5cb9592b8e6a8471969b9341c7", "explanation": [["ld", 13.92964824120608, "increases_risk"]]}
+{"commit_id": "3dcf8347da223566f30aba5771f1611c4cc8bb46", "explanation": [["rtime", 205327.24227196304, "increases_risk"], ["rexp", 868.8311688311672, "increases_risk"]]}
+{"commit_id": "e1e3518da1de721a70c48b5dea3e91bb9d49cd57", "explanation": [["ld", 2.487437185929657, "increases_risk"]]}
+{"commit_id": "089286802db0dca22cd67e46f26fab3ab0a3a73b", "explanation": [["ld", 0.4974874371859314, "increases_risk"]]}
+{"commit_id": "d17b7c9956a7e49db7d847bab4b20ce0c93de4a5", "explanation": [["ld", 0.4974874371859314, "increases_risk"]]}
+{"commit_id": "c883862751d3081bbc05eb4b40fc15abd4fa5b1b", "explanation": [["rtime", 89066.91030912013, "increases_risk"], ["rexp", 1112.5541125541106, "increases_risk"], ["ld", 1.9899497487437257, "increases_risk"]]}
+{"commit_id": "a8a5b27a577f8e007e2cc79570f97ae075fda767", "explanation": [["ld", 64.67336683417108, "increases_risk"]]}
+{"commit_id": "b1a08af498ed6b52e3373a23196ded0396e6d34b", "explanation": [["ld", 154.71859296482467, "increases_risk"]]}
+{"commit_id": "22f0e324f3d3172b563aa67e513fe4d9318de2e5", "explanation": [["rtime", 23982.005264416992, "increases_risk"], ["rexp", 516.0173160173151, "increases_risk"]]}
+{"commit_id": "847fb38c5b0411f9f5b9629967d0072d976b2429", "explanation": [["rtime", 28890.56538101724, "increases_risk"], ["rexp", 568.3982683982674, "increases_risk"]]}
+{"commit_id": "134afd8df538c7e63b41922897a343f34641be23", "explanation": [["rtime", 9008.36650786387, "increases_risk"], ["rexp", 246.32034632034586, "increases_risk"], ["ld", 0.4974874371859314, "increases_risk"]]}
+{"commit_id": "7902c6aeabaa61ebee873d192ec9ed3e94ee85f2", "explanation": [["rtime", 46007.63122974114, "increases_risk"], ["rexp", 1080.952380952379, "increases_risk"], ["ld", 7.959798994974903, "increases_risk"]]}
+{"commit_id": "500da76ab281adc227eb0431ba8e286ca9d2d590", "explanation": [["rtime", 170.34088189866847, "increases_risk"], ["rexp", 66.66666666666654, "increases_risk"], ["ld", 4.477386934673382, "increases_risk"]]}
+{"commit_id": "c66adee2f94b62a74a63a2d84192366e2a92bfa4", "explanation": [["rtime", 294573.4734277407, "increases_risk"], ["rexp", 739.8268398268385, "increases_risk"], ["ld", 29.849246231155885, "increases_risk"]]}
+{"commit_id": "c4ca7a0a006a8c23b4a28700f9d44d8fffd0af7f", "explanation": [["rtime", 156469.6208314277, "increases_risk"], ["rexp", 320.34632034631977, "increases_risk"]]}
+{"commit_id": "ec49a86c9e60af111cddd1943639c79d8fc12304", "explanation": [["rtime", 13935.652287410887, "increases_risk"], ["rexp", 1091.3419913419893, "increases_risk"], ["ld", 11.939698492462353, "increases_risk"]]}
+{"commit_id": "7d0758b2f355d5b086b2ea1e9d6b7b7838b3a157", "explanation": [["rexp", 445.02164502164425, "increases_risk"], ["rtime", 383.562835824137, "increases_risk"], ["ld", 2.9849246231155884, "increases_risk"]]}
+{"commit_id": "d03c94f2b0e3a6d15e404d245fdfa895ca6430de", "explanation": [["rtime", 40572.59457460406, "increases_risk"], ["rexp", 292.20779220779167, "increases_risk"]]}
+{"commit_id": "661fa0c83309f002bbbdd67d81f3e6fbb6bde829", "explanation": [["rtime", 96935.23896538837, "increases_risk"], ["rexp", 393.93939393939326, "increases_risk"], ["ld", 0.9949748743718628, "increases_risk"]]}
+{"commit_id": "1081b9d52026afb84128c15a1df0998f80810ce9", "explanation": [["ld", 0.9949748743718628, "increases_risk"]]}
+{"commit_id": "429cd4bb6a1c86b2e581a011d9e5075f9062fcb6", "explanation": [["ld", 24.87437185929657, "increases_risk"]]}
+{"commit_id": "866cb846f5310e1ad36181e64e7d59ba54d9fd40", "explanation": [["rtime", 153221.31001326768, "increases_risk"], ["rexp", 125.10822510822489, "increases_risk"], ["ld", 111.43718592964863, "increases_risk"]]}
+{"commit_id": "c8345c9ebc0357f1fe06ac520f286f036cb0596c", "explanation": [["ld", 9.949748743718628, "increases_risk"]]}
+{"commit_id": "2a89b0996d24decb9488a0ccd40ab7d275a2dba2", "explanation": [["ld", 2.487437185929657, "increases_risk"]]}
+{"commit_id": "aa300fcbfd88f984dce53d853d255270b73b5dbd", "explanation": [["ld", 1.4924623115577942, "increases_risk"]]}
+{"commit_id": "11fb7b4c910e499a396bb37627a5337990f1c015", "explanation": [["rtime", 1804605.573321126, "decreases_risk"], ["rexp", 129.00432900432878, "increases_risk"], ["ld", 1.9899497487437257, "increases_risk"]]}
+{"commit_id": "72e8b5dc5a5e36722327efca4c399f0321e9bbbb", "explanation": [["ld", 3.48241206030152, "increases_risk"]]}
+{"commit_id": "721e7f939859fbfe6b0c79ef3a6d5e43c916da65", "explanation": [["rtime", 50971.67221388256, "increases_risk"], ["rexp", 2051.948051948048, "increases_risk"], ["ld", 9.452261306532696, "increases_risk"]]}

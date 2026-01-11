@@ -1,0 +1,153 @@
+# ============================================================
+# XMAS-CQP Configuration
+# Model-Centric Decision Explanation Pipeline
+# (Stability & Consistency Evaluation Ready)
+# ============================================================
+
+experiment:
+  name: xmas-cqp
+  description: >
+    XMAS-CQP is a model-centric explainable AI pipeline designed to
+    explain why a predictive model produces a given code quality or
+    defect prediction, strictly based on model-visible input features.
+    This configuration is tailored for repeated-run stability analysis,
+    explanation variation localization, and cross-version consistency
+    evaluation.
+
+  # Global random seed (fixed across all runs)
+  seed: 42
+
+  # -----------------------------
+  # Experiment Identity
+  # -----------------------------
+  dataset: openstack              # openstack | qt | activemq
+  project_version: null           # e.g., 5.0, 5.1, 5.2 (null for commit-level datasets)
+  run_id: 1                       # repeated run index: 1..N
+
+  # -----------------------------
+  # Experiment Mode (NEW)
+  # -----------------------------
+  mode: stability                 # stability | variation | cross_version
+
+  output_format: jsonl
+
+
+# ------------------------------------------------------------
+# Pipeline Control
+# ------------------------------------------------------------
+pipeline:
+  enable_preprocessing: true       # false = explainer-only mode
+  fail_fast: false                 # continue despite individual failures
+  record_stage_failures: true      # failures are first-class experimental signals
+
+
+# ------------------------------------------------------------
+# Preprocessor (Decision IR Builder)
+# ------------------------------------------------------------
+preprocessor:
+  enabled: true
+  role: preprocessor
+
+  # IMPORTANT:
+  # The preprocessor is fully deterministic and does NOT call any LLM.
+  # It constructs a decision IR using only model-visible information.
+  input:
+    source: datasets/input.jsonl
+    format: decision_input         # semantic hint only
+
+  output:
+    path: datasets/processed.jsonl
+    overwrite: true
+
+  processing:
+    validate_features: true
+    validate_model_output: true
+
+    # -----------------------------
+    # Experimental Metadata Annotation
+    # -----------------------------
+    attach_metadata:
+      purpose: analysis_only       # not visible to model or explainer
+      include:
+        - dataset
+        - project_version
+        - run_id
+        - seed
+        - mode
+
+
+# ------------------------------------------------------------
+# Explainer Agent (LLM-based)
+# ------------------------------------------------------------
+explainer:
+  enabled: true
+  role: explainer
+
+  model:
+    provider: openai
+    name: gpt-4.1-mini
+    temperature: 0.0               # critical for RQ1 stability
+    timeout_seconds: 60
+
+  prompts:
+    system_prompt: xmas_cqp/prompts/explainer_system.md
+    user_prompt: xmas_cqp/prompts/explainer_user.md
+
+  schema:
+    path: xmas_cqp/schemas/explanation.schema.json
+    strict: true                   # schema-constrained explanations
+
+  behavior:
+    max_retries: 2
+    conservative_mode: true
+    allow_counterfactual_hint: true
+
+    # -----------------------------
+    # Stability-Oriented Constraints
+    # -----------------------------
+    forbid_feature_invention: true     # no unseen features
+    require_feature_reference: true    # all claims must ground in features
+    deterministic_style: hint          # prompt-level guidance, not a hard guarantee
+
+
+# ------------------------------------------------------------
+# Execution Control
+# ------------------------------------------------------------
+execution:
+  batch_size: 1
+  max_samples: null
+  skip_invalid_records: true
+  shuffle: false                      # preserve input order
+
+  # Deterministic execution order for repeated runs
+  deterministic_order: true
+
+
+# ------------------------------------------------------------
+# Logging
+# ------------------------------------------------------------
+logging:
+  level: INFO
+  log_dir: logs
+  log_to_file: true
+  log_to_console: true
+
+
+# ------------------------------------------------------------
+# Outputs
+# ------------------------------------------------------------
+outputs:
+
+  processed:
+    path: datasets/processed.jsonl
+
+  explanations:
+    path: results/{dataset}/{project_version}/run_{run_id}/explanations.jsonl
+
+  errors:
+    path: results/{dataset}/{project_version}/run_{run_id}/errors.jsonl
+    include_stage: true
+    include_raw_sample: false
+
+  summary:
+    path: results/{dataset}/{project_version}/run_{run_id}/summary.json

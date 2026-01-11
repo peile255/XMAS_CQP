@@ -1,0 +1,11 @@
+{
+  "Del@K": {
+    "mean": 0.015549465095560464,
+    "std": 0.07605458241609893
+  },
+  "Ins@K": {
+    "mean": 0.01652900702963017,
+    "std": 0.0698621001073608
+  },
+  "DirFaith@K": "N/A (LIME explanations are rule-based)"
+}

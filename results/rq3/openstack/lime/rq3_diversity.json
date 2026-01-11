@@ -1,0 +1,67 @@
+{
+  "project": "openstack",
+  "method": "lime",
+  "k": 5,
+  "n_runs": 5,
+  "sample_stats": {
+    "n_samples": 200,
+    "n_pairs": 99500,
+    "empty_explanations": 0
+  },
+  "inter_sample_metrics": {
+    "InterJ@K": {
+      "mean": 0.22522441572944085,
+      "std": 0.2839166300590144
+    },
+    "InterMRD@K": {
+      "mean": 2.461673781606445,
+      "std": 0.6908875859191721
+    }
+  },
+  "rule_distribution": {
+    "entropy": 3.028654583778858,
+    "unique_rules": 32,
+    "top_rules": [
+      {
+        "rule": "rrexp <= 0.00",
+        "frequency": 0.5
+      },
+      {
+        "rule": "tcmt <= 0.00",
+        "frequency": 0.499
+      },
+      {
+        "rule": "rexp <= 0.00",
+        "frequency": 0.498
+      },
+      {
+        "rule": "ent <= 0.00",
+        "frequency": 0.395
+      },
+      {
+        "rule": "la <= 3.00",
+        "frequency": 0.29
+      },
+      {
+        "rule": "orexp <= 0.00",
+        "frequency": 0.277
+      },
+      {
+        "rule": "rrexp > 926.00",
+        "frequency": 0.25
+      },
+      {
+        "rule": "la > 48.25",
+        "frequency": 0.25
+      },
+      {
+        "rule": "rexp > 949.25",
+        "frequency": 0.249
+      },
+      {
+        "rule": "tcmt > 15.00",
+        "frequency": 0.23
+      }
+    ]
+  }
+}

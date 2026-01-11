@@ -1,0 +1,64 @@
+{
+  "project": "openstack",
+  "method": "cfexplainer",
+  "k": 5,
+  "n_runs": 5,
+  "use_signed_feature": false,
+  "sample_stats": {
+    "n_samples": 184,
+    "n_pairs": 93372,
+    "empty_explanations": 32
+  },
+  "inter_sample_metrics": {
+    "InterJ@K": {
+      "mean": 0.6439296577132331,
+      "std": 0.34268851843828724
+    },
+    "InterMRD@K": {
+      "mean": 1.9066565280098244,
+      "std": 1.8112088054063473
+    }
+  },
+  "unit_distribution": {
+    "entropy": 1.9780938763730203,
+    "unique_units": 9,
+    "top_units": [
+      {
+        "unit": "rtime",
+        "frequency": 0.5434782608695652
+      },
+      {
+        "unit": "nd",
+        "frequency": 0.43478260869565216
+      },
+      {
+        "unit": "ld",
+        "frequency": 0.36086956521739133
+      },
+      {
+        "unit": "nf",
+        "frequency": 0.21739130434782608
+      },
+      {
+        "unit": "rexp",
+        "frequency": 0.10869565217391304
+      },
+      {
+        "unit": "oexp",
+        "frequency": 0.10869565217391304
+      },
+      {
+        "unit": "nuc",
+        "frequency": 0.10869565217391304
+      },
+      {
+        "unit": "hcmt",
+        "frequency": 0.10869565217391304
+      },
+      {
+        "unit": "aexp",
+        "frequency": 0.10543478260869565
+      }
+    ]
+  }
+}

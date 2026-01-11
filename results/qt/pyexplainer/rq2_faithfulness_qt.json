@@ -1,0 +1,11 @@
+{
+  "Del@K": {
+    "mean": 0.0008236461381760502,
+    "std": 0.053357484342313945
+  },
+  "Ins@K": {
+    "mean": 0.002992302832274508,
+    "std": 0.0492589420864005
+  },
+  "DirFaith@K": "N/A (PyExplainer outputs rule/condition explanations)"
+}

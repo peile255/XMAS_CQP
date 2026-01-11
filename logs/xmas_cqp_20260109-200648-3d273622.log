@@ -1,0 +1,3 @@
+2026-01-10 09:06:48 | INFO     | xmas_cqp | run=20260109-200648-3d273622 | Logger initialized | run_id=20260109-200648-3d273622
+2026-01-10 09:06:48 | INFO     | xmas_cqp | run=20260109-200648-3d273622 | XMAS-CQP command=run, dataset=openstack, run_id=2, project_version=None
+2026-01-10 09:06:48 | INFO     | xmas_cqp | run=20260109-200648-3d273622 | Starting preprocessing stage (decision IR construction)

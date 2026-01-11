@@ -1,0 +1,52 @@
+{
+  "project": "qt",
+  "method": "cfexplainer",
+  "k": 5,
+  "n_runs": 5,
+  "use_signed_feature": false,
+  "sample_stats": {
+    "n_samples": 200,
+    "n_pairs": 99103,
+    "empty_explanations": 2
+  },
+  "inter_sample_metrics": {
+    "InterJ@K": {
+      "mean": 0.845877521366659,
+      "std": 0.24597285699446206
+    },
+    "InterMRD@K": {
+      "mean": 0.8725164727606631,
+      "std": 1.286207452581443
+    }
+  },
+  "unit_distribution": {
+    "entropy": 1.507196315824738,
+    "unique_units": 6,
+    "top_units": [
+      {
+        "unit": "la",
+        "frequency": 0.9
+      },
+      {
+        "unit": "nd",
+        "frequency": 0.2
+      },
+      {
+        "unit": "asawr",
+        "frequency": 0.2
+      },
+      {
+        "unit": "rtime",
+        "frequency": 0.178
+      },
+      {
+        "unit": "arexp",
+        "frequency": 0.175
+      },
+      {
+        "unit": "hcmt",
+        "frequency": 0.171
+      }
+    ]
+  }
+}

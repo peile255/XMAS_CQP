@@ -1,0 +1,7 @@
+2026-01-10 10:07:33 | INFO     | xmas_cqp | run=20260109-210733-be00d2c6 | Logger initialized | run_id=20260109-210733-be00d2c6
+2026-01-10 10:07:33 | INFO     | xmas_cqp | run=20260109-210733-be00d2c6 | XMAS-CQP command=run, dataset=openstack, run_id=2, project_version=None
+2026-01-10 10:07:34 | INFO     | xmas_cqp | run=20260109-210733-be00d2c6 | Starting preprocessing stage (decision IR construction)
+2026-01-10 10:07:34 | INFO     | xmas_cqp | run=20260109-210733-be00d2c6 | Preprocessing completed. Success: 200, Failed: 0
+2026-01-10 10:07:34 | INFO     | xmas_cqp | run=20260109-210733-be00d2c6 | Starting explanation stage (model decision explanation)
+2026-01-10 10:41:13 | INFO     | xmas_cqp | run=20260109-210733-be00d2c6 | Explanation completed. Processed: 200, Failed: 0
+2026-01-10 10:41:13 | INFO     | xmas_cqp | run=20260109-210733-be00d2c6 | XMAS-CQP execution finished

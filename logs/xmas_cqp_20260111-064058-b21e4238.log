@@ -1,0 +1,7 @@
+2026-01-11 19:40:58 | INFO     | xmas_cqp | run=20260111-064058-b21e4238 | Logger initialized | run_id=20260111-064058-b21e4238
+2026-01-11 19:40:58 | INFO     | xmas_cqp | run=20260111-064058-b21e4238 | XMAS-CQP command=run, dataset=qt, run_id=4, project_version=None
+2026-01-11 19:40:58 | INFO     | xmas_cqp | run=20260111-064058-b21e4238 | Starting preprocessing stage (decision IR construction)
+2026-01-11 19:40:58 | INFO     | xmas_cqp | run=20260111-064058-b21e4238 | Preprocessing completed. Success: 200, Failed: 0
+2026-01-11 19:40:58 | INFO     | xmas_cqp | run=20260111-064058-b21e4238 | Starting explanation stage (model decision explanation)
+2026-01-11 20:18:00 | INFO     | xmas_cqp | run=20260111-064058-b21e4238 | Explanation completed. Processed: 200, Failed: 0
+2026-01-11 20:18:00 | INFO     | xmas_cqp | run=20260111-064058-b21e4238 | XMAS-CQP execution finished

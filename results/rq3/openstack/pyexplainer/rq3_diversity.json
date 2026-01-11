@@ -1,0 +1,67 @@
+{
+  "project": "openstack",
+  "method": "pyexplainer",
+  "k": 5,
+  "n_runs": 5,
+  "sample_stats": {
+    "n_samples": 200,
+    "n_pairs": 99500,
+    "empty_explanations": 0
+  },
+  "inter_sample_metrics": {
+    "InterJ@K": {
+      "mean": 0.40176892398500436,
+      "std": 0.4234817677126074
+    },
+    "InterMRD@K": {
+      "mean": 1.9692653505623354,
+      "std": 1.137868458136019
+    }
+  },
+  "feature_distribution": {
+    "entropy": 2.508879340285345,
+    "unique_features": 16,
+    "top_features": [
+      {
+        "feature": "ns",
+        "frequency": 0.616
+      },
+      {
+        "feature": "ld",
+        "frequency": 0.505
+      },
+      {
+        "feature": "oexp",
+        "frequency": 0.5
+      },
+      {
+        "feature": "nf",
+        "frequency": 0.5
+      },
+      {
+        "feature": "la",
+        "frequency": 0.5
+      },
+      {
+        "feature": "rtime",
+        "frequency": 0.5
+      },
+      {
+        "feature": "orexp",
+        "frequency": 0.451
+      },
+      {
+        "feature": "rrexp",
+        "frequency": 0.446
+      },
+      {
+        "feature": "rexp",
+        "frequency": 0.285
+      },
+      {
+        "feature": "aexp",
+        "frequency": 0.284
+      }
+    ]
+  }
+}
