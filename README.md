@@ -149,11 +149,14 @@ See `xmas_cqp/LICENSE` for details.
 If you use XMAS-CQP in your research, please cite the accompanying paper:
 
 ```bibtex
-@article{XMAS-CQP,
-  title   = {XMAS-CQP: A Reproducible Multi-Agent Framework for Explainable Code Quality Prediction},
-  author  = {Lei Pei et al.},
-  year    = {2026}
+@misc{Pei2025XMAS-CQP,
+  title        = {From Explanations to Artifacts: Building Reproducible, Faithful, and Discriminative Explainable AI for Code Quality Prediction},
+  author       = {Pei, Lei and Licorish, Sherlock A. and Alencar da Costa, Daniel},
+  year         = {2025},
+  note         = {Manuscript under review},
+  url          = {https://github.com/peile255/XMAS_CQP}
 }
+
 ```
 
 ---
